@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+เกมงูงู๊งูครับ | By Piyaphon
+เกมงูงู๊งูครับ
+By Piyaphon
+    คะแนน: <span id="score">0</span> |
+    สูงสุด: <span id="highScore">0</span>
+
+    <div></div>
+    <div class="btn" id="up">⬆️</div>
+    <div></div>
+
+    <div class="btn" id="left">⬅️</div>
+    <div></div>
+    <div class="btn" id="right">➡️</div>
+
+    <div></div>
+    <div class="btn" id="down">⬇️</div>
+    <div></div>
